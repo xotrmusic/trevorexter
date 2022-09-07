@@ -1,0 +1,86 @@
+Title: Trevor Exter
+
+----
+
+Tagline:
+
+----
+
+Description:
+
+Applied musician,
+producer of audio.
+<br>
+
+helloku i say
+
+<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/131402157"></iframe>
+
+----
+
+Social:
+
+-
+  name: twitter
+  code: f099
+  url: https://twitter.com/trevorexter
+-
+  name: instagram
+  code: f16d
+  url: https://www.instagram.com/trevorexter/
+-
+  name: linkedin
+  code: f0e1
+  url: >
+    https://www.linkedin.com/in/trevor-exter/
+-
+  name: bandcamp
+  code: f2d5
+  url: https://bandcamp.com/xotrmusic
+-
+  name: soundcloud
+  code: f1be
+  url: https://soundcloud.com/trevorexter/
+
+----
+
+Footer:
+
+&#169; 2005-(date: year)
+design: (link: https://twitter.com/lemmon text: JP)
+
+----
+
+Htmllang: en
+
+----
+
+Googleanalytics:
+
+----
+
+Googletagmanager:
+
+----
+
+Backgroundcolor:
+
+----
+
+Textcolor:
+
+----
+
+Linkcolor:
+
+----
+
+Highlighttextcolor:
+
+----
+
+Highlightbackgroundcolor:
+
+----
+
+Highlightcolor:

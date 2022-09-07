@@ -1,0 +1,81 @@
+Title: new music
+
+----
+
+Text:
+
+``<main>
+  <div class="audio-player">
+    <audio preload="metadata"></audio>
+
+    <div class="playpause" data-playing="false" title="Play" data-audio="https://files.thisanimus.com/01-Channel-43-(radio-edit).mp3" data-title="Channel 43 (radio edit)" data-details="deadmau5 &amp; Wolfgang Gartner">
+    </div>
+    <div class="audio-player-description">
+      <h3 class="title">Channel 43 (radio edit)</h3>
+      <h4 class="details">deadmau5 &amp; Wolfgang Gartner</h4>
+    </div>
+
+    <input class="timeline" title="time" type="range" min="0" max="0" step="1">
+
+    <div class="time-controls">
+      <div class="current">0:00</div>
+      <div class="time-control-buttons">
+        <button title="Go Back 15s" class="backward">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path fill="none" d="M0 0h24v24H0z"></path>
+            <path d="M5.828 7l2.536 2.536L6.95 10.95 2 6l4.95-4.95 1.414 1.414L5.828 5H13a8 8 0 1 1 0 16H4v-2h9a6 6 0 1 0 0-12H5.828z" fill="currentColor"></path>
+          </svg>
+        </button>
+
+        <button title="Playback Speed" class="speed">1x</button>
+
+        <button title="Go Forward 15s" class="forward">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path fill="none" d="M0 0h24v24H0z"></path>
+            <path d="M18.172 7H11a6 6 0 1 0 0 12h9v2h-9a8 8 0 1 1 0-16h7.172l-2.536-2.536L17.05 1.05 22 6l-4.95 4.95-1.414-1.414L18.172 7z" fill="currentColor"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="duration">3:10</div>
+    </div>
+  </div>
+  <div class="audio-playlist">
+    <ol class="playlist">
+
+      <li class="playlist-item">
+        <div class="playlist-item-description">
+          <h3 class="title">Channel 43 (radio edit)</h3>
+          <h4 class="details">deadmau5 &amp; Wolfgang Gartner</h4>
+        </div>
+        <div class="playlist-item-controls">
+          <div class="playpause" data-rta="true" data-audio="https://files.thisanimus.com/01-Channel-43-(radio-edit).mp3" data-title="Channel 43 (radio edit)" data-details="deadmau5 &amp; Wolfgang Gartner" data-playing="false">
+          </div>
+        </div>
+      </li>
+
+      <li class="playlist-item">
+        <div class="playlist-item-description">
+          <h3 class="title">Memories of Memories</h3>
+          <h4 class="details">Lifeformed x Janice Kwan</h4>
+        </div>
+        <div class="playlist-item-controls">
+          <div class="playpause" data-rta="true" data-audio="https://files.thisanimus.com/02-Memories-of-Memories.mp3" data-title="Memories of Memories" data-details="Lifeformed x Janice Kwan" data-playing="false">
+          </div>
+        </div>
+      </li>
+
+      <li class="playlist-item">
+        <div class="playlist-item-description">
+          <h3 class="title">Transition</h3>
+          <h4 class="details">StreamBeats by Harris Heller</h4>
+        </div>
+        <div class="playlist-item-controls">
+          <div class="playpause" data-rta="true" data-audio="https://files.thisanimus.com/11-Transition.mp3" data-title="Transition" data-details="StreamBeats by Harris Heller" data-playing="false">
+          </div>
+        </div>
+      </li>
+
+    </ol>
+
+  </div>
+</main>

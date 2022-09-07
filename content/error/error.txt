@@ -1,0 +1,11 @@
+Title: Error
+
+----
+
+Text:
+
+Sorry, the page you have requested was not found. 
+
+You might have followed an old link, I recently migrated and streamlined my site.
+
+Questions? (email: trevorexter@gmail.com text: Email me).
