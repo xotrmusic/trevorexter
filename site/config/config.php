@@ -12,5 +12,5 @@ return array_replace([
   // /production
 ]);
 return [
-    'debug' => true
+    'debug' => false
 ];
